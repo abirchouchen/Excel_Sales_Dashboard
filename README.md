@@ -30,4 +30,4 @@ See the screenshot below for an overview of the dashboard.
 
 ## Dashboard Preview
 
-![Excel Sales Dashboard](SalesDashboard.PNG)
+![Excel Sales Dashboard](SalesDashboard.png)
