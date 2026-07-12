@@ -27,3 +27,7 @@ The dashboard provides:
 ## Dashboard Preview
 
 See the screenshot below for an overview of the dashboard.
+
+## Dashboard Preview
+
+![Excel Sales Dashboard](SalesDashboard.PNG)
